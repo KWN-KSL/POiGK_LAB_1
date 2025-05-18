@@ -3,4 +3,5 @@
 - Zamiast statku dodano samochód z lodami
 - Zastąpiono pociski lodami 
 - Pociski podążają za myszką
+# Przykład rozgrywki:
 ![Gameplay demo](Obiektowa.gif)
